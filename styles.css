@@ -1,0 +1,28 @@
+.body{
+    margin:20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.avtar{
+    margin-top: 20px;
+    width: 150px;
+    box-shadow: 10px 10px gray;
+}
+.card{
+    width:500px;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    text-align:center;
+    background-color:#ECDBD9;
+    color: #29274c;
+    margin:50px, auto;
+    border-bottom: 20px solid #b796ac;
+    border-right: 20px solid #b796ac;
+    border-radius: 20px;
+    font-family:sans-serif;
+}
+
+.contact{
+   font-size: small;
+}
